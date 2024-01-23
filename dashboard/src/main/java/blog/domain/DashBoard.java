@@ -20,7 +20,7 @@ public class DashBoard {
         private String postTitle;
         private String postContent;
         private String postNickname;
-        private List&lt;String&gt; commentList;
+        private List<String> commentList;
 
 
 }
