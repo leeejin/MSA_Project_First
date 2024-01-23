@@ -13,5 +13,5 @@ public class CommentDeleted extends AbstractEvent {
     private String content;
     private Long postId;
     private String nickname;
-   
+    private String name;
 }
